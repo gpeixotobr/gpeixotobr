@@ -1,4 +1,5 @@
-I'm a student of programming and data engineering interested in cloud computing, data science and related areas.
+I'm a student of programming and data engineering who lives in Brazil interested in cloud computing, data science and related areas.
+During the last decade I worked as a Journalist and Filmmaker/Motion Designer. After the Covid-19 pandemic I discovered a new passion for computer science and decided to dive into this brand new world in my life.
 
 
 
