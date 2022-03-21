@@ -1,5 +1,5 @@
 I'm a student of programming and data engineering who lives in Brazil interested in cloud computing, data science and related areas.
-During the last decade I worked as a Journalist and Filmmaker/Motion Designer. After the Covid-19 pandemic I discovered a new passion for computer science and decided to dive into this brand new world in my life.
+During the last decade i worked as a journalist and filmmaker/motion designer. After the Covid-19 pandemic i discovered a new passion for computer science and decided to dive into this brand new world in my life.
 
 
 
